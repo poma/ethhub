@@ -33,8 +33,6 @@ Both STARKs and SNARKs require a non-0 amount of computation and so if they are 
 
 [Starkware Industries](https://www.starkware.co/) is using STARK technology to improve scalability and privacy on Ethereum.
 
-[Secret Network](https://scrt.network/blog/introducing-secret-network) are building ['secret contracts'](https://scrt.network/blog/upgrade-complete-secret-contracts-live-mainnet) which enable computation over encrypted data.
-
 [Zether](https://ethresear.ch/t/zether-the-first-privacy-mechanism-designed-for-ethereum/5029) is a confidential (transaction amounts are hidden) and anonymous (transaction sender and receiver are hidden) payment mechanism on blockchains with the account model like Ethereum. [More info on Zether](https://medium.com/@loveshharchandani/notes-on-zether-towards-privacy-in-a-smart-contract-world-6c4333f975d).
 
 
